@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-productshop-6.0\\productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-productshop-6.0\\productshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-productshop-6.0\\productshop\\dtos\\import\\importcategoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\importcategoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-productshop-6.0\\productshop\\dtos\\import\\importcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\importcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-productshop-6.0\\productshop\\dtos\\import\\importproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\importproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-productshop-6.0\\productshop\\dtos\\import\\importuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\import\\importuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-productshop-6.0\\productshop\\dtos\\export\\exportuserswithproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportuserswithproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-productshop-6.0\\productshop\\dtos\\export\\exportcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-productshop-6.0\\productshop\\dtos\\export\\exportusersoldproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportusersoldproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-productshop-6.0\\productshop\\dtos\\export\\exportproductinrangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportproductinrangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Models\\Product.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\Models\\Product.cs",
+              "RelativeToolTip": "ProductShop\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:56:43.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "ProductShop\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\StartUp.cs",
+              "RelativeToolTip": "ProductShop\\StartUp.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:42:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportCategoryProductDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Import\\ImportCategoryProductDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\ImportCategoryProductDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Import\\ImportCategoryProductDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportCategoryProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:41:24.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportCategoryDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Import\\ImportCategoryDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\ImportCategoryDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Import\\ImportCategoryDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:40:52.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportProductDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Import\\ImportProductDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\ImportProductDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Import\\ImportProductDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:40:24.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImportUserDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Import\\ImportUserDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\ImportUserDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Import\\ImportUserDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:39:37.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExportUsersWithProductsDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Export\\ExportUsersWithProductsDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportUsersWithProductsDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Export\\ExportUsersWithProductsDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportUsersWithProductsDto.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:38:45.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportCategoryDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Export\\ExportCategoryDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportCategoryDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Export\\ExportCategoryDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportCategoryDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:38:14.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExportUserSoldProductsDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Export\\ExportUserSoldProductsDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportUserSoldProductsDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Export\\ExportUserSoldProductsDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportUserSoldProductsDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:37:37.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExportProductInRangeDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Export\\ExportProductInRangeDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportProductInRangeDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-ProductShop-6.0\\ProductShop\\DTOs\\Export\\ExportProductInRangeDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportProductInRangeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:36:52.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\dataprocessor\\exportdto\\exportinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\exportdto\\exportinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\dataprocessor\\exportdto\\exportclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\exportdto\\exportclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\importdto\\importproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\importdto\\importinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\importdto\\importaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\importdto\\importclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\data\\models\\enums\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\enums\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\data\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\softuni\\c# db\\entity framework core\\retake exam .net 6.0 - 11 april 2023\\01-model-definition-skeleton\\invoices\\data\\invoicescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\invoicescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:33:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportInvoiceDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportInvoiceDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ExportDto\\ExportInvoiceDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportInvoiceDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ExportDto\\ExportInvoiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:32:51.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportClientDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:32:35.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:23:30.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportProductDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:23:13.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImportInvoiceDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:22:53.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImportAddressDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:22:37.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportClientDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:22:09.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvoicesContext.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\InvoicesContext.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\InvoicesContext.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\InvoicesContext.cs",
+              "RelativeToolTip": "Invoices\\Data\\InvoicesContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:12:18.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductClient.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\ProductClient.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\ProductClient.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\ProductClient.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\ProductClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:12:02.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Invoice.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Invoice.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:11:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Address.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Address.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:10:57.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Client.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Client.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Client.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA/wCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:10:33.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Product.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Product.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:10:12.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrencyType.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:09:52.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Enums\\CategoryType.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\Retake Exam .NET 6.0 - 11 April 2023\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Enums\\CategoryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:09:33.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

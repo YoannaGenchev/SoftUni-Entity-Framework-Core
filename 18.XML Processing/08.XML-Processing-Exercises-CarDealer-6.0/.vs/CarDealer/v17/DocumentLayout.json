@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportcustomersalesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportcustomersalesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportcarwithpartsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportcarwithpartsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportcarwithdistancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportcarwithdistancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportlocalsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportlocalsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\export\\exportbmwcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportbmwcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\softuni\\c# db\\entity framework core\\18.xml processing\\08.xml-processing-exercises-cardealer-6.0\\cardealer\\dtos\\import\\importpartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importpartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportCarWithPartsDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarWithPartsDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportCarWithPartsDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarWithPartsDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportCarWithPartsDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:01:29.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportCustomerSalesDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCustomerSalesDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportCustomerSalesDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCustomerSalesDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportCustomerSalesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:03:45.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportSaleDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportSaleDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportSaleDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportSaleDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportSaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:04:11.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwIUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:34:10.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportSaleDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportSaleDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportSaleDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportSaleDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportSaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:56:47.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportSupplierDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:54:58.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExportCarWithDistanceDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarWithDistanceDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportCarWithDistanceDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportCarWithDistanceDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportCarWithDistanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:58:11.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportLocalSupplierDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportLocalSupplierDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportLocalSupplierDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportLocalSupplierDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportLocalSupplierDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:59:31.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExportBmwCarDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportBmwCarDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportBmwCarDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Export\\ExportBmwCarDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportBmwCarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:58:39.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImportCustomerDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportCustomerDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportCustomerDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportCustomerDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:56:23.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImportCarDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:55:52.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImportPartDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportPartDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportPartDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\18.XML Processing\\08.XML-Processing-Exercises-CarDealer-6.0\\CarDealer\\DTOs\\Import\\ImportPartDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportPartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:55:28.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

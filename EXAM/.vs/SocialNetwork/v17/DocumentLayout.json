@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\dataprocessor\\exportdtos\\exportuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\dataprocessor\\exportdtos\\exportuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\dataprocessor\\exportdtos\\exportpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\dataprocessor\\exportdtos\\exportpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\dataprocessor\\importdtos\\importpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\dataprocessor\\importdtos\\importpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\dataprocessor\\importdtos\\importmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\dataprocessor\\importdtos\\importmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\socialnetworkprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\socialnetworkprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\data\\socialnetworkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\data\\socialnetworkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\data\\models\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\data\\models\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\data\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\data\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\data\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\data\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\data\\models\\userconversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\data\\models\\userconversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|c:\\softuni\\c# db\\entity framework core\\exam\\socialnetwork\\data\\models\\enum\\messagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B04AFDB-69BF-4644-BB69-320A0F4181CE}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\data\\models\\enum\\messagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SocialNetworkProfile.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\SocialNetworkProfile.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\SocialNetworkProfile.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\SocialNetworkProfile.cs",
+              "RelativeToolTip": "SocialNetwork\\SocialNetworkProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:41:08.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "SocialNetwork\\DataProcessor\\Serializer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:29:21.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "SocialNetwork\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAYwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:19:50.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportPostDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\ImportDTOs\\ImportPostDto.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\DataProcessor\\ImportDTOs\\ImportPostDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\ImportDTOs\\ImportPostDto.cs",
+              "RelativeToolTip": "SocialNetwork\\DataProcessor\\ImportDTOs\\ImportPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:26:00.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportMessageDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\ImportDTOs\\ImportMessageDto.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\DataProcessor\\ImportDTOs\\ImportMessageDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\ImportDTOs\\ImportMessageDto.cs",
+              "RelativeToolTip": "SocialNetwork\\DataProcessor\\ImportDTOs\\ImportMessageDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:25:16.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportPostDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\ExportDTOs\\ExportPostDto.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\DataProcessor\\ExportDTOs\\ExportPostDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\ExportDTOs\\ExportPostDto.cs",
+              "RelativeToolTip": "SocialNetwork\\DataProcessor\\ExportDTOs\\ExportPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:54:33.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportUserDto.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\ExportDTOs\\ExportUserDto.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\DataProcessor\\ExportDTOs\\ExportUserDto.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\DataProcessor\\ExportDTOs\\ExportUserDto.cs",
+              "RelativeToolTip": "SocialNetwork\\DataProcessor\\ExportDTOs\\ExportUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:54:14.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\StartUp.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\StartUp.cs",
+              "RelativeToolTip": "SocialNetwork\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:30:24.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SocialNetworkDbContext.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\SocialNetworkDbContext.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Data\\SocialNetworkDbContext.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\SocialNetworkDbContext.cs",
+              "RelativeToolTip": "SocialNetwork\\Data\\SocialNetworkDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:04:03.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Data\\Models\\Message.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\Message.cs",
+              "RelativeToolTip": "SocialNetwork\\Data\\Models\\Message.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:03:35.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Friendship.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\Friendship.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Data\\Models\\Friendship.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\Friendship.cs",
+              "RelativeToolTip": "SocialNetwork\\Data\\Models\\Friendship.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:02:59.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Data\\Models\\Post.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\Post.cs",
+              "RelativeToolTip": "SocialNetwork\\Data\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:02:41.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserConversation.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\UserConversation.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Data\\Models\\UserConversation.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\UserConversation.cs",
+              "RelativeToolTip": "SocialNetwork\\Data\\Models\\UserConversation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:02:18.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\Conversation.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Data\\Models\\Conversation.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\Conversation.cs",
+              "RelativeToolTip": "SocialNetwork\\Data\\Models\\Conversation.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:01:57.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\User.cs",
+              "RelativeToolTip": "SocialNetwork\\Data\\Models\\User.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:01:30.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MessageStatus.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\Enum\\MessageStatus.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Data\\Models\\Enum\\MessageStatus.cs",
+              "ToolTip": "C:\\SoftUni\\C# DB\\Entity Framework Core\\EXAM\\SocialNetwork\\Data\\Models\\Enum\\MessageStatus.cs",
+              "RelativeToolTip": "SocialNetwork\\Data\\Models\\Enum\\MessageStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:01:10.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
